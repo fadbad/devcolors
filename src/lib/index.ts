@@ -1,5 +1,5 @@
-import _ from 'lodash'
-export const capitalize = (str) => _.capitalize(_.trim(str))
+
+export const capitalize = (str) => str[0].toUpperCase() + str.slice(1)
 
 export { default as Modal } from './Modal.svelte'
 export * from './tinycolor'

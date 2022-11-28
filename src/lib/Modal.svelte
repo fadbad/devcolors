@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
     export let value = false
     export let title = ''
     export let width = ''

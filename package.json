@@ -11,8 +11,7 @@
   },
   "devDependencies": {
     "@sveltejs/adapter-auto": "next",
-    "@sveltejs/adapter-node": "^1.0.0-next.101",
-    "@sveltejs/kit": "1.0.0-next.528",
+    "@sveltejs/kit": "1.0.0-next.565",
     "autoprefixer": "^10.4.7",
     "daisyui": "^2.42.1",
     "postcss": "^8.4.14",
@@ -26,7 +25,5 @@
     "vite": "^3.1.0"
   },
   "type": "module",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+  "dependencies": {}
 }
