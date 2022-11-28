@@ -5,7 +5,10 @@ const config = {
     extend: {},
   },
 
-  plugins: [],
+  plugins: [
+    require('daisyui')
+  ],
+  darkMode: "class"
 };
 
 module.exports = config;
